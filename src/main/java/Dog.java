@@ -1,7 +1,7 @@
 /**
- * Definition of the D.A.W.G Class (Directed Acyclic Weighted Graph)
+ * Definition of the D.A.W.G Class (Directed Acyclic Word Graph)
  * @author Pavarasan Karunainathan
- * @version 0.0.0
+ * @version 17.0.1
  */
 
 class Dog{
