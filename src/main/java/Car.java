@@ -4,10 +4,10 @@
  * @version 17.0.1
  */
 class Car{
-    static String make;
-    static String model;
-    static int year;
-    static double price;
+    String make;
+    String model;
+    int year;
+    double price;
 
     /**
      * Constructor of the Car class
